@@ -7,3 +7,4 @@ pyrogram
 tgcrypto
 flask
 gunicorn
+telebot
